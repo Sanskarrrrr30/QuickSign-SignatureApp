@@ -1,7 +1,3 @@
-Here’s a comprehensive README file for your Signature Web App:
-
----
-
 # Signature Web App
 
 Welcome to the **Signature Web App**, a simple yet powerful tool for creating, customizing, and saving digital signatures! This project was built to make the process of generating personal or professional digital signatures quick and user-friendly.
@@ -59,7 +55,3 @@ If you have any questions or suggestions, feel free to reach out to me on [Linke
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to replace the GitHub and LinkedIn links with your actual URLs. Let me know if you need any further adjustments!
